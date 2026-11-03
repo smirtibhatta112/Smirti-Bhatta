@@ -1,0 +1,6 @@
+{
+  "name": "Smirti Bhatta | Civil Engineer Portfolio",
+  "description": "Interactive civil engineering portfolio for Smirti Bhatta featuring real-time multi-cursor architectural construction sequencing, CAD blueprint visualization, and live BOQ estimation calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
